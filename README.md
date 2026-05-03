@@ -1,6 +1,6 @@
 <div align="center">
 
-# 😎 Dhruv Gupta 🤟
+# Dhruv Gupta
 
 **First Year CS + Business @ NTU Singapore**
 
