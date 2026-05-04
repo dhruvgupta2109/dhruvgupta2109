@@ -90,7 +90,7 @@ National level CS topper | Optimised AI pipelines to **~0.5s latency** | Varsity
 
 ## Certifications
 
-- **National-level CS Topper** — Class 12 CBSE
+- **National CS Topper** — Class 12 CBSE
 - Advanced Generative AI for Work — *Adobe* (Nov 2025)
 - Microsoft 365 Copilot for Work — *Microsoft* (Oct 2025)
 - Sustainability Foundations — *LinkedIn* (Oct 2025)
