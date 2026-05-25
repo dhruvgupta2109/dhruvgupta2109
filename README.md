@@ -14,7 +14,7 @@
 
 ## About Me
 
-CS + Business student at **NTU Singapore**, experimenting with AI, real world tech, and building things that actually work.
+CS + Business student at **NTU Singapore**, experimenting with AI, real world tech, and breaking and building things till they work.
 National level CS topper | Optimised AI pipelines to **~0.5s latency** | Varsity Football
 
 ---
