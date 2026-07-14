@@ -80,7 +80,7 @@ National level CS topper | Optimised AI pipelines to **~0.5s latency** | Varsity
 
  
 **Nanyang Technological University, Singapore** `2025 – 2029`
-- B.Eng. Computer Science + Minor in Business
+- B.Eng. Computer Science 
  
 **Mother's International School, New Delhi** 
 - CBSE — Class XII: **96%** `2025`
