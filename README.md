@@ -2,7 +2,7 @@
 
 # Dhruv Gupta
 
-**Computer Science + Business @ NTU Singapore**
+**Computer Science @ NTU Singapore**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvgupta2109-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvgupta2109)
 [![LeetCode](https://img.shields.io/badge/LeetCode-DhruvGupta21092007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DhruvGupta21092007/)
