@@ -99,7 +99,7 @@
 
 </div>
 
-<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/eb8fcd7c-2940-47fd-b43e-7a88f6994835" />  <img width="450" alt="image" src="https://images.meme-arsenal.com/87d1cbf2be0b978286f1d26a9bb847ac.jpg" />  <img width="250" alt="image" src="https://i.redd.it/yvm6sjorpss21.jpg" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/eb8fcd7c-2940-47fd-b43e-7a88f6994835" />            <img width="315" alt="image" src="https://i.redd.it/yvm6sjorpss21.jpg" />
 
 </div>
 
