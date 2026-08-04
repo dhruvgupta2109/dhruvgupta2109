@@ -91,15 +91,19 @@
 ---
 
 ## GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=dhruvgupta2109&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=dhruvgupta2109&theme=yeblu&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhruvgupta2109&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="Center">
 
-![](https://github-profile-trophy.vercel.app/?username=dhruvgupta2109&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![snake gif](https://github.com/dhruvgupta2109/dhruvgupta2109/blob/output/github-snake-dark.svg)
+<img src="https://github-readme-stats.shion.dev/api?username=dhruvgupta2109&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true" height="180" /> <img src="https://streak-stats.demolab.com/?user=dhruvgupta2109&theme=yeblu&hide_border=false" height="180" />
 
 </div>
 
+</div>
+
+<div align="center">
+ 
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/eb8fcd7c-2940-47fd-b43e-7a88f6994835" />            <img width="315" alt="image" src="https://i.redd.it/yvm6sjorpss21.jpg" />
+</div>
 
 </div>
 
