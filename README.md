@@ -7,6 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvgupta2109-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvgupta2109)
 [![LeetCode](https://img.shields.io/badge/LeetCode-DhruvGupta21092007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DhruvGupta21092007/)
 [![Email](https://img.shields.io/badge/Gmail-dhruvgupta07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvgupta07@gmail.com)
+[![Instagram](https://img.shields.io/badge/dhruv.gupta.07E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_HANDLE)
+[![Discord](https://img.shields.io/badge/dhruvgupta07-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_USER_ID)
 
 </div>
 
