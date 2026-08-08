@@ -13,22 +13,22 @@
 ---
 ## Tech Stack
  
-### 💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=py,js,java,cpp,c,html,css" />
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,md" />
 </p>
 
-### 🌐 Backend, Web & Databases
+### Backend, Web & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,npm,mysql,mongodb" />
 </p>
 
-### 🤖 AI, ML & 3D
+### AI, ML & 3D
 <p>
   <img src="https://skillicons.dev/icons?i=threejs,sklearn" />
 </p>
