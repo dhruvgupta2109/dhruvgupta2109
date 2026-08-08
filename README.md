@@ -30,7 +30,7 @@
 
 ### AI, ML & 3D
 <p>
-  <img src="https://skillicons.dev/icons?i=threejs,sklearn" />
+  <img src="https://skillicons.dev/icons?i=threejs,sklearn,pytorch,tensorflow,opencv" />
 </p>
 ---
 
