@@ -4,11 +4,13 @@
 
 **Computer Science @ NTU Singapore**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvgupta2109-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvgupta2109)
-[![LeetCode](https://img.shields.io/badge/LeetCode-DhruvGupta21092007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DhruvGupta21092007/)
-[![Email](https://img.shields.io/badge/Gmail-dhruvgupta07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvgupta07@gmail.com)
-[![Instagram](https://img.shields.io/badge/dhruv.gupta.07E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhruv.gupta.07)
-[![Discord](https://img.shields.io/badge/dhruvgupta07-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/dhruvgupta07)
+<p align="center">
+  <a href="https://linkedin.com/in/dhruvgupta2109"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dhruvgupta07@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://instagram.com/dhruv.gupta.07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://leetcode.com/dhruvgupta21092007"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="http://discordapp.com/users/dhruvgupta07"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
 </div>
 
