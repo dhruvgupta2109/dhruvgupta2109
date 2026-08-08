@@ -13,34 +13,24 @@
 ---
 ## Tech Stack
  
-### Languages
+### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=py,js,java,cpp,c,html,css" />
 </p>
 
-### Backend & Web
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### AI & 3D
-<p>
-  <img src="https://skillicons.dev/icons?i=threejs" />
-</p>
-
-### Machine Learning & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-</p>
-
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,md" />
+</p>
+
+### 🌐 Backend, Web & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,npm,mysql,mongodb" />
+</p>
+
+### 🤖 AI, ML & 3D
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs,sklearn" />
 </p>
 ---
 
