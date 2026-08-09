@@ -76,7 +76,14 @@
 <div align="Center">
 
 ![snake gif](https://github.com/dhruvgupta2109/dhruvgupta2109/blob/output/github-snake-dark.svg)
-<img src="https://github-readme-stats.shion.dev/api?username=dhruvgupta2109&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true" height="150" /> <img src="https://streak-stats.demolab.com/?user=dhruvgupta2109&theme=yeblu&hide_border=false" height="150" />
+<p align="center">
+
+  <img src="https://github-readme-stats.shion.dev/api?username=dhruvgupta2109&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="170" />
+
+  <img src="https://streak-stats.demolab.com/?user=dhruvgupta2109&theme=transparent&hide_border=false" height="170" />
+
+</p>
+
 
 </div>
 
