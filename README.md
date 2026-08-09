@@ -91,7 +91,7 @@
 
 <div align="center">
  
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/eb8fcd7c-2940-47fd-b43e-7a88f6994835" />            <img width="315" alt="image" src="https://i.redd.it/yvm6sjorpss21.jpg" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/eb8fcd7c-2940-47fd-b43e-7a88f6994835" />            <img width="310" alt="image" src="https://i.redd.it/yvm6sjorpss21.jpg" />
 </div>
 
 </div>
