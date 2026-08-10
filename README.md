@@ -36,8 +36,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=threejs,sklearn,pytorch,tensorflow,opencv" />
 </p>
----
 
+---
 ## Experience
 
 **AI/ML Intern | BDO** `May 2026 – Jul 2026`
