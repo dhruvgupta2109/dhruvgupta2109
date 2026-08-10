@@ -76,6 +76,15 @@
 <div align="Center">
 
 ![snake gif](https://github.com/dhruvgupta2109/dhruvgupta2109/blob/output/github-snake-dark.svg)
+
+<p align="center">
+  <div style="width: 1000px; overflow: hidden; margin: 0 auto;">
+    <img src="https://github-trophies.vercel.app/?username=dhruvgupta2109&theme=radical&no-frame=true&no-bg=true&margin-w=0&column=8&row=1" 
+         style="width: 1000px; margin-left: 0;" 
+         alt="Trophies" />
+  </div>
+</p>
+
 <p align="center">
 
   <img src="https://github-readme-stats.shion.dev/api?username=dhruvgupta2109&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="170" />
