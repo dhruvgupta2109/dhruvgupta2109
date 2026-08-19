@@ -63,17 +63,9 @@
 - B.Eng. Computer Science 
  
 **Mother's International School, New Delhi** 
-- CBSE — Class XII: **96%** `2025`
+- CBSE — Class XII: **96%** `2025` <br>
+  (**National CS Topper**)<br>
 - CBSE — Class X: **94%** `2023`
-
----
-
-## Certifications
-
-- **National CS Topper** — Class 12 CBSE
-- Advanced Generative AI for Work — *Adobe* (Nov 2025)
-- Microsoft 365 Copilot for Work — *Microsoft* (Oct 2025)
-- Sustainability Foundations — *LinkedIn* (Oct 2025)
 
 ---
 
