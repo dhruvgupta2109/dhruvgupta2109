@@ -1,7 +1,6 @@
 <div align="center">
 
 # Dhruv Gupta
-
 **Computer Science @ NTU Singapore**
 
 <p align="center">
@@ -16,7 +15,6 @@
 
 ---
 ## Tech Stack
- 
 ### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=py,js,java,cpp,c,html,css" />
