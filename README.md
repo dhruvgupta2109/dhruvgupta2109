@@ -71,9 +71,11 @@
 
  
 **Nanyang Technological University, Singapore** `2025 – 2029`
+<br>
 - B.Eng. Computer Science 
- 
+  
 **Mother's International School, New Delhi** 
+<br>
 - CBSE — Class XII: **96%** `2025` <br>
   (**National CS Topper**)<br>
 - CBSE — Class X: **94%** `2023`
