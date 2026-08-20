@@ -15,33 +15,46 @@
 
 ---
 ## Tech Stack
-<div align="centre">
-<table align="centre">
+
+<div align="center">
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=py,js,java,cpp,c,html,css" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=c" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css" width="48" />
+</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,md" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=gitlab" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vscode" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=md" width="48" />
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Backend, Web & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,npm,mysql,mongodb" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=npm" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### AI, ML & 3D
-<img src="https://skillicons.dev/icons?i=threejs,sklearn,pytorch,tensorflow,opencv" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=threejs" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=sklearn" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=pytorch" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tensorflow" width="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=opencv" width="48" />
+</p>
 
 </td>
 </tr>
