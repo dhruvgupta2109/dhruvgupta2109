@@ -15,25 +15,38 @@
 
 ---
 ## Tech Stack
+<div align="centre">
+<table align="centre">
+<tr>
+<td width="50%" valign="top">
+
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,java,cpp,c,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=py,js,java,cpp,c,html,css" />
+
+</td>
+<td width="50%" valign="top">
 
 ### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,md" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,md" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### Backend, Web & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,npm,mysql,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm,mysql,mongodb" />
+
+</td>
+<td width="50%" valign="top">
 
 ### AI, ML & 3D
-<p>
-  <img src="https://skillicons.dev/icons?i=threejs,sklearn,pytorch,tensorflow,opencv" />
-</p>
+<img src="https://skillicons.dev/icons?i=threejs,sklearn,pytorch,tensorflow,opencv" />
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 ## Experience
