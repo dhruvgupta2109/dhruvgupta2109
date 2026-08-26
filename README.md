@@ -72,7 +72,7 @@
  
 **Nanyang Technological University, Singapore** `2025 – 2029`
 <br>
-- B.Eng. Computer Science 
+- B.Eng. Computer Science: **4.25/5**
   
 **Mother's International School, New Delhi** 
 <br>
