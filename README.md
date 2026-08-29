@@ -50,20 +50,20 @@
 
 ---
 ## Experience
-
 **AI/ML Intern | BDO** `May 2026 – Jul 2026`
-- Built a document classification pipeline using OCR, text embeddings, and ML (Logistic Regression, XGBoost) to accurately classify business documents
-- Evaluated model predictions against ground truth data, performed error analysis, and refined training data to improve accuracy
-- Collaborated with the team on real business use cases, gaining hands-on experience in document AI and iterative model development
-  
+- Built a document classification pipeline using OCR, text embeddings, and ML techniques (Logistic Regression, XGBoost) to accurately classify diverse types of business documents at scale
+- Evaluated predictions against ground truth data, performed error analysis, and refined training data to improve classification accuracy across multiple document types and business use cases
+- Collaborated with the team on real business use cases, gaining experience in document AI and model evaluation, while contributing to the design of practical, production-ready AI solutions
+
 **Software Engineering Intern | PlanetSpark** `Dec 2025 – Jan 2026`
-- Built an interactive AI system with ASR + GroqCloud LLaMA + browser-based avatar interface
-- Cut end to end conversational latency to **~0.5s** via pipeline refactoring
-- Deployed across desktop & mobile with cross-browser (Chrome/Safari) support
+- Built an interactive AI system integrating ASR, GroqCloud LLaMA APIs, and a browser-based avatar interface
+- Optimised end-to-end conversational latency to **~0.5s** by refactoring API calls and restructuring the pipeline
+- Implemented UI state management and cross-browser fixes (Chrome/Safari), testing and deploying across desktop and mobile
 
 **Software Engineering Intern | Singapore Computer Society** `Aug – Dec 2025`
-- Contributed to NTU affiliated projects: development, debugging, feature implementation
-- Organised student focused technical events and workshops
+- Contributed to NTU-affiliated technical projects by assisting with development, debugging, and feature implementation
+- Supported planning and execution of student-focused technical events and hands-on workshops
+- Collaborated with team members on documentation of projects and cleaning code
 
 ---
 
