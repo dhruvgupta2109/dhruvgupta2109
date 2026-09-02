@@ -50,19 +50,11 @@
 
 ---
 ## Experience
-**AI/ML Intern | BDO** `May 2026 – Jul 2026`
-- Built a document classification pipeline (OCR, text embeddings, Logistic Regression, XGBoost) to classify business documents at scale
-- Performed error analysis and refined training data to improve classification accuracy across document types
-
-**Software Engineering Intern | PlanetSpark** `Dec 2025 – Jan 2026`
-- Built an interactive AI system with ASR, GroqCloud LLaMA, and a browser-based avatar interface
-- Cut end-to-end conversational latency to **~0.5s** via pipeline refactoring
-- Deployed across desktop & mobile with cross-browser support (Chrome/Safari)
-
-**Software Engineering Intern | Singapore Computer Society** `Aug – Dec 2025`
-- Contributed to NTU-affiliated projects: development, debugging, feature implementation
-- Organised student-focused technical events and workshops
-
+| Role | Company | Duration | Highlights |
+|---|---|---|---|
+| AI/ML Intern | BDO | May 2026 – Jul 2026 | • Built a document classification pipeline (OCR, text embeddings, Logistic Regression, XGBoost) to classify business documents at scale<br>• Performed error analysis and refined training data to improve classification accuracy across document types |
+| Software Engineering Intern | PlanetSpark | Dec 2025 – Jan 2026 | • Built an interactive AI system with ASR, GroqCloud LLaMA, and a browser-based avatar interface<br>• Cut end-to-end conversational latency to **~0.5s** via pipeline refactoring<br>• Deployed across desktop & mobile with cross-browser support (Chrome/Safari) |
+| Software Engineering Intern | Singapore Computer Society | Aug – Dec 2025 | • Contributed to NTU-affiliated projects: development, debugging, feature implementation<br>• Organised student-focused technical events and workshops |
 ---
 
 ## Education
