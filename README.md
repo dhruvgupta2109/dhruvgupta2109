@@ -56,19 +56,13 @@
 | Software Engineering Intern | PlanetSpark<br>(EdTech Startup) | Dec'25 <br>–<br> Jan'26 | • Built an interactive AI system with ASR, GroqCloud LLaMA, and a browser-based avatar interface<br>• Cut end-to-end conversational latency to **~0.5s** via pipeline refactoring<br>• Deployed across desktop & mobile with cross-browser support (Chrome/Safari) |
 | Software Engineering Intern | Singapore Computer Society | Aug'25 <br>–<br> Dec'25 | • Contributed to NTU-affiliated projects: development, debugging, feature implementation<br>• Organised student-focused technical events and workshops<br>• worked with team on project documentation and cleaning code |
 ---
-
 ## Education
 
- 
-**Nanyang Technological University, Singapore** `2025 – 2029`
-<br>
-- B.Eng. Computer Science: **4.25/5**
-  
-**Mother's International School, New Delhi** 
-<br>
-- CBSE — Class XII: **96%** `2025` <br>
-  (**National CS Topper**)<br>
-- CBSE — Class X: **94%** `2023`
+| Institution | Program | Duration | Grade |
+|---|---|---|---|
+| Nanyang Technological University, Singapore | B.Engg. Computer Science | 2025 – 2029 | **4.25/5** |
+| Mother's International School, New Delhi | CBSE — Class XII | 2025 | **96%** (National CS Topper) |
+| Mother's International School, New Delhi | CBSE — Class X | 2023 | **94%** |
 
 ---
 
