@@ -61,7 +61,7 @@
 | Institution | Program | Duration | Grade |
 |---|---|---|---|
 | Nanyang Technological University, Singapore | B.Engg. Computer Science | 2025 – 2029 | **4.25/5** |
-| Mother's International School, New Delhi | CBSE — Class XII | 2025 | **96%** (National CS Topper) |
+| Mother's International School, New Delhi | CBSE — Class XII | 2025 | **96%** <br> (National CS Topper) |
 | Mother's International School, New Delhi | CBSE — Class X | 2023 | **94%** |
 
 ---
