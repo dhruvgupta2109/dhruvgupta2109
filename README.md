@@ -49,7 +49,7 @@
 </div>
 
 ---
-## Experience
+## Internship Experience
 | Role | Company | Duration | Highlights |
 |---|---|---|---|
 | AI/ML Intern | BDO Accounting | May'26 <br>-<br> Jul'26 | • Built a document classification pipeline (OCR, text embeddings, Logistic Regression, XGBoost) to classify business documents at scale<br>• Performed error analysis and refined training data to improve classification accuracy across document types |
